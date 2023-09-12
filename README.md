@@ -1,4 +1,4 @@
-### BOAS VINDAS AO MEU PERFIL 
+### BOAS VINDAS AO MEU PERFIL💙
 
 Meu nome é Alyce Araújo
 
@@ -6,8 +6,10 @@ Meu nome é Alyce Araújo
 -Estou me desenvolvendo na Linguagem JavaScript
 -Utilizo esse espaço para minha organização e comparilhamneto dos meus projetos  
 
-### Voc
+### Você entrar em contato comigo 📭
 
+alyce.camargo@escola.pr.gov.br
 
+aly.ce14 
 
-
+![] (
